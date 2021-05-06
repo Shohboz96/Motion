@@ -22,5 +22,9 @@ class GlobalActivity : AppCompatActivity() {
         bn.animation3.setOnClickListener {
             startActivity(Intent(this,Activity3::class.java))
         }
+
+        bn.animation4.setOnClickListener {
+            startActivity(Intent(this,Activity4::class.java))
+        }
     }
 }

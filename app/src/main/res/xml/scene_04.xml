@@ -17,8 +17,8 @@
                 android:translationY="50dp"
                 motion:framePosition="100"
                 motion:motionTarget="@id/button"
-                motion:waveOffset="0"
-                motion:wavePeriod="0"
+                motion:waveOffset="1"
+                motion:wavePeriod="1"
                 motion:waveShape="sin"
                 />
 
@@ -26,7 +26,7 @@
                 android:translationY="50dp"
                 motion:framePosition="50"
                 motion:motionTarget="@id/button"
-                motion:waveOffset="0"
+                motion:waveOffset="1"
                 motion:wavePeriod="1"
                 motion:waveShape="sin"
                 />
@@ -35,8 +35,8 @@
                 android:translationY="50dp"
                 motion:framePosition="0"
                 motion:motionTarget="@id/button"
-                motion:waveOffset="0"
-                motion:wavePeriod="0"
+                motion:waveOffset="1"
+                motion:wavePeriod="1"
                 motion:waveShape="sin"
                 />
 

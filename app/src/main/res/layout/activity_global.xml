@@ -28,4 +28,11 @@
         android:layout_marginTop="14dp"
         android:layout_height="wrap_content"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:id="@+id/animation4"
+        android:text="Animation 4"
+        android:layout_marginTop="14dp"
+        android:layout_height="wrap_content"/>
+
 </LinearLayout>
